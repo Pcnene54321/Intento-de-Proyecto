@@ -1,0 +1,25 @@
+.introduccion > p{
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to bottom, rgba(30,87,153,0.79)
+    0%,rgba(30,87,153,0.73) 11%,rgba(30,87,153,0.67) 22%,rgba(41,137,216,0.52)
+    48%,rgba(32,124,202,0.34) 79%,rgba(125,185,232,0.22) 100%);
+    font-size: 30px;
+    font-weight: 400;
+    color: #eaedf1d7;
+    font-style: italic;
+    justify-content: space-between;
+    padding: 30px;
+  }
+  
+  .titulo  {
+    text-align: center;
+    background-color: #3670b3;
+    padding: 10px;
+    color: #d6d5d5;
+    font-style: italic;
+    box-sizing: content-box;
+    font-size: 40px;
+    border-radius: 25%;
+    font-weight: 600;
+  }

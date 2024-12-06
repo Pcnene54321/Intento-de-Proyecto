@@ -1,0 +1,12 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  background-image:url('./logos/fondo\ sin\ fondo2.png'), linear-gradient(to bottom, rgba(70,147,219,1) 
+  0%,rgba(70,147,219,1) 33%,rgba(38,135,214,1) 55%,rgba(30,87,153,1) 100%);
+  background-position: flex;
+}
+
